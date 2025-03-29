@@ -4,7 +4,7 @@ export const products = [
     name: "Beetroot Powder",
     description: "100% Natural | 250g",
     price: 299.0,
-    image: "/images/beetroot-powder.png",
+    image: "/images/beetroot-powder.jpg",
     longDescription:
       "Our premium Beetroot Powder is made from 100% organic beetroots, carefully dehydrated and ground to preserve all the natural nutrients. Rich in antioxidants, vitamins, and minerals, this versatile powder can be added to smoothies, soups, or baked goods for a nutritional boost.",
     benefits: [
@@ -55,7 +55,7 @@ export const products = [
     name: "Banana Powder",
     description: "100% Natural | 200g",
     price: 249.0,
-    image: "/images/banana-powder.png",
+    image: "/images/banana-powder.jpg",
     longDescription:
       "Our Banana Powder is made from ripe, organic bananas that are carefully dehydrated and ground into a fine powder. It retains all the natural sweetness and nutritional benefits of fresh bananas, making it perfect for adding to smoothies, baked goods, and more.",
     benefits: [
@@ -107,7 +107,7 @@ export const products = [
     name: "Carrot Powder",
     description: "100% Natural | 200g",
     price: 249.0,
-    image: "/images/carrot-powder.png",
+    image: "/images/carrot-powder.jpg",
     longDescription:
       "Our Carrot Powder is made from fresh, organic carrots that are carefully dehydrated and ground into a fine powder. It retains all the nutritional benefits of fresh carrots, including beta-carotene and other essential vitamins and minerals.",
     benefits: [
@@ -159,7 +159,7 @@ export const products = [
     name: "Lemon Powder",
     description: "100% Natural | 150g",
     price: 279.0,
-    image: "/images/lemon-powder.png",
+    image: "/images/lemon-powder.jpg",
     longDescription:
       "Our Lemon Powder is made from fresh, organic lemons that are carefully dehydrated and ground into a fine powder. It retains the tangy flavor and nutritional benefits of fresh lemons, making it perfect for adding to drinks, desserts, and savory dishes.",
     benefits: [
@@ -213,7 +213,7 @@ export const products = [
     name: "Coconut Powder",
     description: "100% Natural | 200g",
     price: 249.0,
-    image: "/images/coconut-powder.png",
+    image: "/images/coconut-powder.jpg",
     longDescription:
       "Our Coconut Powder is made from fresh, organic coconuts that are carefully dehydrated and ground into a fine powder. It retains all the natural flavor and nutritional benefits of fresh coconuts, making it perfect for adding to smoothies, baked goods, and more.",
     benefits: [
@@ -265,7 +265,7 @@ export const products = [
     name: "Moringa Powder",
     description: "100% Natural | 150g",
     price: 349.0,
-    image: "/images/moringa-powder.png",
+    image: "/images/moringa-powder.jpg",
     longDescription:
       "Our Moringa Powder is made from fresh, organic moringa leaves that are carefully dehydrated and ground into a fine powder. Known as a superfood, moringa is packed with nutrients, antioxidants, and bioactive compounds that offer numerous health benefits.",
     benefits: [
@@ -317,7 +317,7 @@ export const products = [
     name: "Tomato Powder",
     description: "100% Natural | 150g",
     price: 269.0,
-    image: "/images/tomato-powder.png",
+    image: "/images/tomato-powder.jpg",
     longDescription:
       "Our Tomato Powder is made from fresh, organic tomatoes that are carefully dehydrated and ground into a fine powder. It retains all the flavor and nutritional benefits of fresh tomatoes, making it perfect for adding to soups, sauces, and more.",
     benefits: [
@@ -369,7 +369,7 @@ export const products = [
     name: "Curry Leaves Powder",
     description: "100% Natural | 100g",
     price: 229.0,
-    image: "/images/curry-leaves-powder.png",
+    image: "/images/curry-leaves-powder.jpg",
     longDescription:
       "Our Curry Leaves Powder is made from fresh, organic curry leaves that are carefully dehydrated and ground into a fine powder. It retains all the aromatic flavor and nutritional benefits of fresh curry leaves, making it perfect for adding to curries, soups, and more.",
     benefits: [
@@ -424,7 +424,7 @@ export const products = [
     name: "Papaya Leaves Powder",
     description: "100% Natural | 100g",
     price: 299.0,
-    image: "/images/papaya-leaves-powder.png",
+    image: "/images/papaya-leaves-powder.jpg",
     longDescription:
       "Our Papaya Leaves Powder is made from fresh, organic papaya leaves that are carefully dehydrated and ground into a fine powder. Known for their medicinal properties, papaya leaves are packed with nutrients and enzymes that offer numerous health benefits.",
     benefits: [
